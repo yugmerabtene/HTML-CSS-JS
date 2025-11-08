@@ -74,10 +74,16 @@ Exemple minimal d’une page HTML :
   <head>
     <title>Ma première page web</title>
   </head>
-  <body>
+<body>
+  <header>
     <h1>Bonjour, monde !</h1>
-    <p>Voici ma première page en HTML.</p>
-  </body>
+  </header>
+  <main>
+<p>Voici ma première page en HTML.</p>
+  </main>
+  <footer>
+  </footer>
+</body>
 </html>
 ```
 
